@@ -46,10 +46,7 @@ app.get("/contact",(req,res)=>{
 // app.get("/wardendisplay",(req,res)=>{
 //     res.render("wardendisplay")
 // })
-app.get('/getdata',(req,res)=>
-{
-    res.send("haiiiii")
-})
+
 
 app.post("/registrationform",async(req,res)=>
 {
