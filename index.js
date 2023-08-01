@@ -48,7 +48,7 @@ app.get("/contact",(req,res)=>{
 // })
 app.get("/getdata",(req,res)=>
 {
-    res.send("hello")
+    res.send({message:'hai'})
 })
 
 app.post("/registrationform",async(req,res)=>
