@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^7.4.1",
+    "nodemon": "^3.0.1",
+    "popup": "^0.0.3",
+    "popups": "^1.1.3"
+  }
+}
